@@ -8,20 +8,17 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
 import com.example.projek_pbb_infinity.ui.navigation.SetupNavGraph
-import com.example.projek_pbb_infinity.ui.screens.login.LoginScreen // Sesuaikan folder
 import com.example.projek_pbb_infinity.ui.theme.PROJEK_PBB_INFINITYTheme
 
 class MainActivity : ComponentActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) { // Sudah benar pakai C kapital
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            val navController = rememberNavController()
-            SetupNavGraph(navController = navController)
             PROJEK_PBB_INFINITYTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
-                    LoginScreen(onLoginSuccess = {
-                        // Kosongkan dulu agar aplikasi bisa terbuka tanpa crash
-                    }) // Memanggil desain login kamu
+                    // Panggil navigasi di sini
+                    val navController = rememberNavController()
+                    SetupNavGraph(navController = navController)
                 }
             }
         }
