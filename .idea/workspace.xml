@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14ec2f67-374e-4a35-b699-3180c074580e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/src/main/java/com/example/projek_pbb_infinity/ui/components/CustomComponents.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CopyKlik-Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/src/main/java/com/example/projek_pbb_infinity/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/src/main/java/com/example/projek_pbb_infinity/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/src/main/java/com/example/projek_pbb_infinity/ui/navigation/NavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PROJEK_PBB_INFINITY/app/src/main/java/com/example/projek_pbb_infinity/ui/navigation/NavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3CieAOBk925NlqNH5jPIDDeSmqS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +36,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
