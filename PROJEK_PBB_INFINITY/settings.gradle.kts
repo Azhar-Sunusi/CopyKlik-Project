@@ -22,5 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PROJEK_PBB_INFINITY"
+
+
+rootProject.name = "CopyKlik-Project"
 include(":app")
